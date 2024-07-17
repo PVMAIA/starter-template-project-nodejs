@@ -11,6 +11,9 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^20.14.11",
+    "@typescript-eslint/eslint-plugin": "^7.16.1",
+    "@typescript-eslint/parser": "^7.16.1",
+    "eslint-config-airbnb-typescript": "^18.0.0",
     "git-commit-msg-linter": "^5.0.8",
     "typescript": "^5.5.3"
   }
